@@ -12,6 +12,7 @@ string findLongestString(string* arr, int size)
     }
     return longest;
 }
+
 int main() 
 {
     const int size = 4;
